@@ -66,4 +66,4 @@ Telegram频道传送门：热门 Telegram 频道大集合！娱乐、资讯、�
 
 《黑料大事记》系统盘点全网爆料大事件，时间线清晰，内容详尽，带你看懂每场舆情全貌。
 
-[Canonical link](）
+[Canonical link](https://github.com/vivivi20250624/vivivi20250624）
